@@ -3,7 +3,8 @@ img {
 	height: 200px;
 	width: 200px;
 	margin: 0;
-	padding: 10;
+	border: solid black;
+    transform: rotate(-2deg);
 }
 
 ul {
